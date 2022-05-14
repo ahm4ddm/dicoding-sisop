@@ -33,6 +33,13 @@ Menerapkan layout yang responsif:
 Terdapat penerapan JavaScript dalam memanipulasi DOM, seperti: (pilih satu)
 - [X] Membuat drop down.
 
+## Hasil Low Fidelity
+### Desktop
+![Desktop](https://github.com/ahm4ddm/dicoding-sisop/blob/main/desktop.png?raw=true)
+### Mobile
+![Mobile](https://github.com/ahm4ddm/dicoding-sisop/blob/main/mobile.png?raw=true)
+
+
 
 # Note
 - Navbar dan aside berubah ketika width kurang dari sama dengan 850
